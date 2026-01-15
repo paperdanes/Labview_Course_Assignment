@@ -7,7 +7,7 @@ Virtual Instrument System Based on LabVIEW
 
 本项目基于 **LabVIEW** 平台，实现了两个典型虚拟仪器系统：  
 
-#### 本项目为中北大学虚拟仪器课程实验，仅供学习和参考，祝大家学有所成！
+#### 本项目为大学生虚拟仪器课程实验，仅供学习和参考，祝大家学有所成！
 
 - **虚拟信号发生器（Signal Generator）**
 - **虚拟双通道示波器（Dual-channel Oscilloscope）**
